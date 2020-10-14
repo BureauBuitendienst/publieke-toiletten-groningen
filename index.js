@@ -144,7 +144,6 @@ function timeStampToFloat(timeStamp) {
 }
 
 function getHoursFromMidnight(time, previous = "") {
-    console.log(time)
     if (!previous) {
         return timeStampToFloat(time)
     } else {
