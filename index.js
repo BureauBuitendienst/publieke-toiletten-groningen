@@ -1012,6 +1012,7 @@ document.querySelector(".ol-attribution button").addEventListener("click", funct
         c2.remove("expanded")
         c2.add("collapsed")
     }
+    map.updateSize()
 })
 
 
