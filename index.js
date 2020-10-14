@@ -81,9 +81,8 @@ var fillClosed = new Fill({ color: 'rgba(128, 128, 128, 0.7)' })
 var strokeOpen = new Stroke({ color: 'rgb(243,110,33)', width: 2 });
 var fillOpen = new Fill({ color: 'rgba(243,110,33, 0.7)' })
 
-var strokeSelected = new Stroke({ color: 'rgb(246, 255, 10)', width: 2 });
-var fillSelected = new Fill({ color: 'rgba(246, 255, 10, 0.7)' })
-
+var strokeSelected = new Stroke({ color: 'rgb(49, 247, 118)', width: 2 })
+var fillSelected = new Fill({ color: 'rgba(49, 247, 118, 0.7)' })
 
 
 var fill = new Fill({ color: 'red' });
@@ -205,10 +204,10 @@ var closedStyle = new Style({
 
 var selectedStyle = new Style({
     image: new RegularShape({
-        fill: fillOpen,
-        stroke: strokeOpen,
+        fill: fillSelected,
+        stroke: strokeSelected,
         points: 4,
-        radius: 6,
+        radius: 10,
         angle: Math.PI / 4,
     })
 })
