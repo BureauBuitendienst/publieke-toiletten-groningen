@@ -1748,7 +1748,7 @@
         "accessibility": true,
         "urinal_only": false,
         "fee": false,
-        "ownership": "municipal",
+        "ownership": "public",
         "accessibility_plus": false
       },
       "geometry": {
