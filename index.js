@@ -886,8 +886,8 @@ generateLegend(vectorSource.getFeatures());
 function genTableFromKVPs(kvps) {
     const keyLookup = {
         "urinal_only": "alleen urinoir",
-        "accessibility": "rolstoel toegankelijk",
-        "accessibility_plus": "rolstoel toegankelijk +",
+        "accessibility": "rolstoeltoegankelijk -",
+        "accessibility_plus": "rolstoeltoegankelijk",
         "fee": "betaald",
         "ownership": "eigendom",
         "name": "naam",
