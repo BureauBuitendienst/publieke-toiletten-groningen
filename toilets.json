@@ -200,33 +200,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stadsschouwburg",
-        "openinghours": {
-          "di": "12:00 - 18:00",
-          "do": "12:00 - 18:00",
-          "ma": "12:00 - 18:00",
-          "vr": "12:00 - 18:00",
-          "wo": "12:00 - 18:00",
-          "za": "00:00 - 00:00",
-          "zo": "00:00 - 00:00"
-        },
-        "accessibility": true,
-        "urinal_only": false,
-        "fee": false,
-        "ownership": "public",
-        "accessibility_plus": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          731569.6525651929,
-          7023938.479047568
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "De Oosterpoort",
         "openinghours": {
           "di": "12:00 - 18:00",
