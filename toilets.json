@@ -186,7 +186,7 @@
         "accessibility": true,
         "urinal_only": false,
         "fee": false,
-        "ownership": "municipal",
+        "ownership": "public",
         "accessibility_plus": false
       },
       "geometry": {
@@ -990,8 +990,8 @@
           "ma": "12:00 - 20:00",
           "vr": "12:00 - 20:00",
           "wo": "12:00 - 20:00",
-          "za": "00:00 - 23:59",
-          "zo": "00:00 - 23:59"
+          "za": "23:58 - 23:59",
+          "zo": "23:58 - 23:59"
         },
         "accessibility": true,
         "urinal_only": false,
