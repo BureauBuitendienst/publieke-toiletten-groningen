@@ -35,34 +35,7 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Martini Hostel",
-        "openinghours": {
-          "di": "00:00 - 00:00",
-          "do": "00:00 - 00:00",
-          "ma": "00:00 - 00:00",
-          "vr": "00:00 - 00:00",
-          "wo": "00:00 - 00:00",
-          "za": "00:00 - 00:00",
-          "zo": "00:00 - 00:00"
-        },
-        "accessibility": true,
-        "urinal_only": false,
-        "fee": true,
-        "ownership": "private",
-        "accessibility_plus": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          731540.3198793328,
-          7023013.165549266
-        ]
-      }
-    },
-    {
+       {
       "type": "Feature",
       "properties": {
         "name": "Hema",
@@ -858,7 +831,7 @@
           "za": "00:00 - 24:00",
           "zo": "00:00 - 24:00"
         },
-        "accessibility": false,
+        "accessibility": true,
         "urinal_only": false,
         "fee": true,
         "ownership": "municipal",
