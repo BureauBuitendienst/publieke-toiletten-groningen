@@ -740,7 +740,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Toilet Speelweide Noorderplantsoen",
+        "name": "Toilet speelweide Noorderplantsoen",
         "openinghours": {
           "di": "09:00 - 21:00",
           "do": "09:00 - 21:00",
@@ -794,7 +794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Toilet Vijver Noorderplantsoen",
+        "name": "Toilet vijver Noorderplantsoen",
         "openinghours": {
           "di": "09:00 - 21:00",
           "do": "09:00 - 21:00",
