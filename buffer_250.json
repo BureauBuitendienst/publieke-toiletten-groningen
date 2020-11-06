@@ -462,7 +462,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gemeente Groningen",
+        "name": "Gemeente Groningen, Kreupelstraat",
         "openinghours": {
           "di": "09:00 - 17:00",
           "do": "09:00 - 17:00",
@@ -632,7 +632,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pathe",
+        "name": "Pathé",
         "openinghours": {
           "di": "10:00 - 00:00",
           "do": "10:00 - 00:00",
@@ -1470,7 +1470,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Central train station",
+        "name": "Centraal treinstation",
         "openinghours": {
           "di": "08:00 - 21:00",
           "do": "08:00 - 21:00",
@@ -1561,7 +1561,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "The International Welcome Center North",
+        "name": "Gemeente Groningen, Gedempte Zuiderdiep",
         "openinghours": {
           "di": "09:00 - 17:00",
           "do": "09:00 - 17:00",
@@ -1660,7 +1660,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "De konditorei",
+        "name": "De Konditorei",
         "openinghours": {
           "di": "10:00 - 17:00",
           "do": "10:00 - 17:00",
@@ -1929,7 +1929,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Koolhaas",
+        "name": "Openbaar toilet Reitemakersrijge",
         "openinghours": {
           "di": "00:00 - 24:00",
           "do": "00:00 - 24:00",
@@ -2356,7 +2356,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Toilet Speelweide",
+        "name": "Toilet speelweide Noorderplantsoen",
         "openinghours": {
           "di": "09:00 - 21:00",
           "do": "09:00 - 21:00",
@@ -2546,7 +2546,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Toilet vijver plantsoen",
+        "name": "Toilet vijver Noorderplantsoen",
         "openinghours": {
           "di": "09:00 - 21:00",
           "do": "09:00 - 21:00",
@@ -2629,7 +2629,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Publiek toilet VVV Grote Markt",
+        "name": "Publiek toilet kiosk Grote Markt",
         "openinghours": {
           "di": "00:00 - 24:00",
           "do": "00:00 - 24:00",
